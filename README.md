@@ -10,4 +10,4 @@ This project analyzes sales data to understand business performance.
 ## Tools Used
 - Excel (Pivot Tables, Charts)
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](DASHBOARD.png)
